@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "765552613011",
+    "project_id": "sunsim-circadian-app",
+    "storage_bucket": "sunsim-circadian-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765552613011:android:a4615c904800dd0cb6df66",
+        "android_client_info": {
+          "package_name": "com.example.sunsim_circadian_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ-BDVrt1rXPnFMWzTA7avpNJeNKLha_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

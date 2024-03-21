@@ -1,0 +1,11 @@
+// import 'package:flutter/services.dart';
+
+// // class SensorService {
+// //   static const MethodChannel _channel =
+// //       MethodChannel('com.yourcompany.sensors/ambient_light');
+  
+// //   static Future<double?> getAmbientLightLevel() async {
+// //     final double? lightLevel = await _channel.invokeMethod('getAmbientLightLevel');
+// //     return lightLevel;
+// //   }
+// // }
